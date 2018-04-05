@@ -3,8 +3,7 @@ title: Welcome
 menu: main
 weight: 1
 ---
-> Minimalism is not a lack of something. It’s simply the perfect amount of something.
-> — Nicholas Burroughs
+> If you’re looking for a real community of well-rounded people who are doing interesting work, including entrepreneurs, developers, designers, artists, and academics, that like to play hard then you have come to the right place.
 
 ## Before You Land
 Let us know what time you land in Denpasar so we can arrange a driver. Trust me, it's much easier to get to the villa when you have someone picking you that who makes the trip frequently.

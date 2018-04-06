@@ -1,0 +1,12 @@
+{{ partials "header" . }}
+
+<article lang='{{ .Params.lang | default .Lang }}' class='entry'>
+  {{ partials "entry/header" . }}
+  {{ partials "entry/cover" . }}
+  {{ partials "entry/toc" . }}
+  {{ partials "entry/content" . }}
+  {{ partials "entry/footer" . }}
+</article>
+
+{{ template "theme/partials/nav/entry_nav" . }}
+{{ partials "footer" . }}

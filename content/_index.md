@@ -44,18 +44,23 @@ Our local village transportation is called Trinade Transport. Trinade is lookinn
 When you go to grad a ride **only** use a car or van sourced through the house manager or front desk and **do not** hail a ride through Grab or Uber under any circumstances.
 
 **How do you know what rides are okay?**
+
 If you would like a ride with four wheels, you need to source your driver through our front desk or the house manager. They'll make sure you are keeping the locals happy. If you are cool on two wheels, then Go Jek will work just fine.
 
 **What's the deal with four wheels?**
+
 Any vehicle with four wheels coming from outside Canggu to pick you up you is stealing income from the locals.
 
 **Why is Go Jek okay?**
+
 Go Jek bikes doesn't compete with local taxis, plus they are an Indonesian company.
 
 **What about Grab?**
+
 While Grab commands much of the Asian market, they stay of out of Indonesia. Indonesia is hyperlocal! Outsider have any extremely hard time winning market share here, so it's best to invest where the market is more accommodating.
 
 **What about Uber?**
+
 Even Uber doesn't want to operate in Asia. They gave up China for a 20% stake to Didi back in 2016. Now they have given up the rest of Asia for a 27.5% stake in Grab.
 
 #### Saftey

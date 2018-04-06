@@ -1,12 +1,13 @@
-{{ partials "header" . }}
+{{ template "theme/partials/header" . }}
 
 <article lang='{{ .Params.lang | default .Lang }}' class='entry'>
-  {{ partials "entry/header" . }}
-  {{ partials "entry/cover" . }}
-  {{ partials "entry/toc" . }}
-  {{ partials "entry/content" . }}
-  {{ partials "entry/footer" . }}
+  {{ template "theme/partials/entry/header" . }}
+  {{ template "theme/partials/entry/cover" . }}
+  {{ template "theme/partials/entry/toc" . }}
+  {{ template "theme/partials/entry/content" . }}
+  {{ template "theme/partials/entry/footer" . }}
 </article>
 
 {{ template "theme/partials/nav/entry_nav" . }}
-{{ partials "footer" . }}
+{{ template "theme/partials/entry/comments" . }}
+{{ template "theme/partials/footer" . }}

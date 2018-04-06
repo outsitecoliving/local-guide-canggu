@@ -1,4 +1,4 @@
-<link rel='icon' href='{{ ( or .Site.Params.assets.favicon "favicon.ico" ) | relURL }}'>
+<link rel='icon' href='{{ ( or .Site.Params.assets.favicon "favicon.png" ) | relURL }}'>
 <link rel='stylesheet' href='{{ print "/assets/css/" .Site.Data.assets.main.css | relURL  }}'>
 
 {{- range .Site.Params.assets.customCSS -}}
@@ -7,4 +7,4 @@
 
 {{- partial "head/css" . -}}
 
-{{- partial "head/analytics" . -}}
+{{- partial "head/analytics" . -}} 

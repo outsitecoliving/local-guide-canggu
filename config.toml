@@ -1,7 +1,7 @@
 # Uncomment when you are ready to push.
 baseURL = "https://nervous-jennings-11f834.netlify.com"
 # baseURL = "http://localhost:1313/"
-title = "Outsite"
+title = "Outsite // Canggu"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -28,7 +28,7 @@ description = "Work anywhere. Live differently."
 title404 = "Nothing's here!"
 
 [params.assets]
-favicon = "favicon.ico"
+favicon = "favicon.png"
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
@@ -56,7 +56,7 @@ enable = true
 [params.widgets]
 homepage = ["recent_posts"]
 sidebar = ["about","taxonomy_cloud"]
-
+ 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
 appID = ""

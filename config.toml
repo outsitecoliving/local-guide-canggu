@@ -1,5 +1,5 @@
 # Uncomment when you are ready to push.
-baseURL = "https://nervous-jennings-11f834.netlify.com/"
+baseURL = "https://nervous-jennings-11f834.netlify.com"
 # baseURL = "http://localhost:1313/"
 title = "Outsite"
 # for smart copyright line, leave this blank and check [params.copyright]

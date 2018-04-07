@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: post
 title: How to Get to Outsite from the Airport
 summary: The is Bali not Boston. You can simply hail a shuttle and get to a well defined location. Bali is a bit trickier to navigate. Don't worry though. We have it all sorted.
 featured-img: airport

@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Communication
-featured-img: communication
 type: stay
+toc: true
 ---
 # Communication
 Unless you are taking the route of roaming charges, you are going to want a SIM card.
